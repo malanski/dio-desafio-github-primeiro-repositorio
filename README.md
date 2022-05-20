@@ -7,7 +7,9 @@ Desafio de Projeto sobre Git/Github da DIO
 
 - Bootcamp at Digital Innovation One  
  
-- Instructor Git/Github: Venilton Falvo Jr (Tech Lead DIO)  
+- Instructor Git/Github: Venilton Falvo Jr (Tech Lead DIO)
+
+<img width="100px" src="diologo.png">
   
 ### TQI Fullstack Developer
 
