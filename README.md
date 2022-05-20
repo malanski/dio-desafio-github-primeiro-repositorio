@@ -40,7 +40,7 @@ Desafio de Projeto sobre Git/Github da DIO
 ## Certifications  
    
 <div align="center">
-<img width="480px" alt="Github Into Course certification" title="Github Into Course certification" src="certif.png">
+<img width="480px" alt="Github Intro Course certification" title="Github Intro Course certification" src="certif.png">
 <img width="480px" alt="Create REpository Course certification" title="Create REpository Course certification" src="certif2.png">
 </div>
   
