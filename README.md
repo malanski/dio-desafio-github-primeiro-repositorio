@@ -37,6 +37,8 @@ Desafio de Projeto sobre Git/Github da DIO
 - Commit it with  
 `git commit -m "add documentation from Git/github course"`
   
+## Certifications  
+   
 <div align="center">
 <img width="480px" alt="Github Into Course certification" title="Github Into Course certification" src="certif.png">
 <img width="480px" alt="Create REpository Course certification" title="Create REpository Course certification" src="certif2.png">
