@@ -17,6 +17,9 @@ Desafio de Projeto sobre Git/Github da DIO
   
 ### TQI Fullstack Developer
 
+### Course Introduction  
+Enhance your Git knowledge with a hands-on project challenge where you'll walk through all the steps to create, update, and sync a repository on GitHub. For this, keep in mind all the tips and guidelines presented by the expert in the classes. That way, you can share your notes and exercises in your own repository. Thus creating the first (of many) projects in your portfolio
+
 #### Documentation Journal  
   
 - Create a Github remote repository
@@ -43,7 +46,4 @@ Desafio de Projeto sobre Git/Github da DIO
 <img width="480px" alt="Github Intro Course certification" title="Github Intro Course certification" src="certif.png">
 <img width="480px" alt="Create REpository Course certification" title="Create REpository Course certification" src="certif2.png">
 </div>
-  
-  
-Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
-
+    
