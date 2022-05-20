@@ -9,7 +9,7 @@ Desafio de Projeto sobre Git/Github da DIO
  
 - Instructor Git/Github: Venilton Falvo Jr (Tech Lead DIO)
 
-<img width="100px" src="diologo.png">
+<img alt="Course badge" title="Course Badge" width="100px" src="diologo.png">
   
 ### TQI Fullstack Developer
 
@@ -34,6 +34,8 @@ Desafio de Projeto sobre Git/Github da DIO
 `git commit -m "add documentation from Git/github course"`
   
 <img alt="Bootcamp Badge" title="Bootcamp Badge" width="100px" src="https://hermes.digitalinnovation.one/tracks/3c8be628-5138-4b63-9cfa-e5313cc03103.png">
+
+<img width="480px" alt="Course certification" title="Course certification" src="certif.png">
 
 Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
 
